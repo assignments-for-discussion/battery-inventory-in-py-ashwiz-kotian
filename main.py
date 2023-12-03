@@ -1,10 +1,6 @@
 
 def count_batteries_by_health(present_capacities):
-  return {
-    "healthy": 0,
-    "exchange": 0,
-    "failed": 0
-  }
+  ret
 
 
 def test_bucketing_by_health():
